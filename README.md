@@ -1,1 +1,1 @@
-# Smart_ecommerce_project
+@fetch.ai
