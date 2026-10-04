@@ -22,4 +22,4 @@ Smart_Ecommerce_ML_Colab_Cell_by_Cell.ipynb
 
 ## How to Run
 Open the notebook in Google Colab and run the cells sequentially.
-@Fetch.ai
+@Fetch.ai.rcpit
